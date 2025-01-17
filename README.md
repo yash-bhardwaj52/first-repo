@@ -1,4 +1,4 @@
 Yash bhardwaj 
 <br>
-<h2>Yashi Bansal</h2>
+<h2>Yash Bhardwaj</h2>
 hello from Yash 
